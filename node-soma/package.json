@@ -1,0 +1,17 @@
+{
+  "name": "node-soma",
+  "version": "1.0.0",
+  "description": "soma com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soma"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-js": "^11.3.0"
+  }
+}
